@@ -1,6 +1,5 @@
 
 int numBalls=0;
-float spring = 0.05;
 float friction = -0.9;
 Ball[] balls = new Ball[9];
 
